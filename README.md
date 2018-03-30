@@ -16,7 +16,7 @@ Technical Details:
 
 • macOS High Sierra 10.13.3
 
-                                                                                                                                                  • Xcode Version 9.2 (9C40b)
+                                                                                                                                          • Xcode Version 9.2 (9C40b)
 
 Support:
 https://www.youtube.com/watch?time_continue=1&v=AoS9dsdcgLA 
